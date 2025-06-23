@@ -22,5 +22,3 @@
 180 POKE U1, TX
 190 X = USR(0)          ' CALL $RSTX [85]
 200 GOTO 100
-
-
